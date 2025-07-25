@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "input_documents": [
+      "electronics-brochure.pdf",
+      "1706.03762v7.pdf",
+      "Company profile.pdf"
+    ],
+    "persona": "Product Manager in semiconductor solutions",
+    "job": "Extract key value propositions and product categories to present to clients",
+    "processing_timestamp": "2025-07-25T11:03:35.915753"
+  },
+  "extracted_sections": [
+    {
+      "document": "tmpxlws_pv2.pdf",
+      "page_number": 4,
+      "section_title": "Scaled Dot-Product Attention  Multi-Head Attention Figure 2: (left) Scaled Dot-P...",
+      "importance_rank": 1,
+      "score": 0.2617492794990539
+    },
+    {
+      "document": "tmpxlws_pv2.pdf",
+      "page_number": 9,
+      "section_title": "Table 3: Variations on the Transformer architecture. Unlisted values are identic...",
+      "importance_rank": 2,
+      "score": 0.25533281912406286
+    },
+    {
+      "document": "tmpzblufc94.pdf",
+      "page_number": 1,
+      "section_title": "Applications:   Semiconductor   LEDs and Photonics   Solar   Nanotechnology   El...",
+      "importance_rank": 3,
+      "score": 0.24478185176849365
+    },
+    {
+      "document": "tmpzblufc94.pdf",
+      "page_number": 2,
+      "section_title": "Product solutions with  consistent performance Praxair is your industry-leading ...",
+      "importance_rank": 4,
+      "score": 0.21716907868782676
+    },
+    {
+      "document": "tmpzblufc94.pdf",
+      "page_number": 4,
+      "section_title": "© Copyright 2014 Praxair Technology, Inc. Praxair, the Flowing Airstream design ...",
+      "importance_rank": 5,
+      "score": 0.2109287530183792
+    }
+  ]
+}
